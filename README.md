@@ -1,0 +1,1 @@
+Scripts for managing a database of published bis-tridentate iridium OLED emitter molecules. "nep" refers to Neptune's trident, and "map" refers to the intention of creating a map of all published structures and properties.
